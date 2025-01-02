@@ -2,6 +2,12 @@
 
 Gaia PDF RAG is a Retrieval-Augmented Generation (RAG) application that allows users to ask questions about PDF documents using a local Gaia node and Qdrant vector database. It combines the power of local LLMs with efficient vector search to provide accurate, context-aware answers.
 
+<img width="1646" alt="image" src="https://github.com/user-attachments/assets/ca930e4a-b2dc-43bf-9fbe-c127c76e83d2" />
+<img width="1649" alt="image" src="https://github.com/user-attachments/assets/63c111b6-3f26-4626-93c7-a74a8b36907f" />
+<img width="1648" alt="image" src="https://github.com/user-attachments/assets/aff37638-139c-4e8e-abda-2d9260f5cf7b" />
+<img width="1651" alt="image" src="https://github.com/user-attachments/assets/730451da-0b20-40eb-b16e-7b3bd3c010ac" />
+<img width="1636" alt="image" src="https://github.com/user-attachments/assets/e8dc4721-bcfd-4e6b-a925-f9280bc3bfbc" />
+
 ## Features
 
 - 📑 PDF document processing and chunking
