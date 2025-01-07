@@ -8,6 +8,10 @@ Gaia PDF RAG is a Retrieval-Augmented Generation (RAG) application that allows u
 <img width="1651" alt="image" src="https://github.com/user-attachments/assets/730451da-0b20-40eb-b16e-7b3bd3c010ac" />
 <img width="1636" alt="image" src="https://github.com/user-attachments/assets/e8dc4721-bcfd-4e6b-a925-f9280bc3bfbc" />
 
+#### Multiple Files Example
+
+<img width="1439" alt="image" src="https://github.com/user-attachments/assets/4b5b6f08-e58d-4d04-8dcc-d29c1af78fe1" />
+
 ## Features
 
 - 📑 PDF document processing and chunking
