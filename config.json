@@ -1,5 +1,5 @@
 {
-  "address": "0x22f5413C075Ccd56D575A54763831C4c27A37Bdb",
+  "address": "",
   "chat": "https://huggingface.co/gaianet/Llama-3-8B-Instruct-GGUF/resolve/main/Meta-Llama-3-8B-Instruct-Q5_K_M.gguf",
   "chat_ctx_size": "8192",
   "chat_batch_size": "16",
